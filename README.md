@@ -1,4 +1,4 @@
-## Howw to be pogi?
+## Welcome to Gian's Webpage!
 Owned by Glenn 
 
 You can use the [editor on GitHub](https://github.com/kapogian/kapogian.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
